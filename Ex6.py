@@ -1,2 +1,2 @@
-string = 'Altyn.kun,aspany '
+string = 'Altyn.kun,aspani '
 print(string.replace(' ', ':').replace('.', ':').replace(',', ':'))

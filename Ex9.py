@@ -1,3 +1,3 @@
 import re
 pattern = re.compile('(?=[A-Z])')
-print(pattern.sub(' ', 'MeowMeowMeow'))
+print(pattern.sub(' ', 'MeowHiMeow'))
